@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="false" name="Configuration1" category="opl">
+            			
+            <ref name="approach1.mod" type="model">
+			</ref>
+            			
+            <ref name="approach1.dat" type="data">
+			</ref>
+            		
+        </config>
+        		
+        <config default="true" name="Configuration2" category="opl">
+            			
+            <ref name="approach1.mod" type="model">
+			</ref>
+            			
+            <ref name="approach1.dat" type="data">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
