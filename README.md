@@ -1,5 +1,4 @@
 # Profit-maximization-in-simultaneous-lot-sizing-and-scheduling-problem
-## Simultaneous Lot-sizing and Scheduling with Flexible Demand Acceptance
 
 This project addresses a novel approach to Simultaneous Lot-sizing and Scheduling Problems by incorporating profit maximization as the primary objective. Traditional Lot sizing and scheduling models prioritize fulfilling all customer demands, which may not align with real-world business goals. 
 
